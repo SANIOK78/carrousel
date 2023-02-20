@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carrousel/static/css/main.2184074b.css",
+    "main.js": "/carrousel/static/js/main.788f5ee8.js",
+    "static/media/left-arrow.svg": "/carrousel/static/media/left-arrow.da21225bcf530088451874c9e21c215a.svg",
+    "static/media/right-arrow.svg": "/carrousel/static/media/right-arrow.d19ce8f87764b5901ed2ca6f0ff22d03.svg",
+    "index.html": "/carrousel/index.html",
+    "main.2184074b.css.map": "/carrousel/static/css/main.2184074b.css.map",
+    "main.788f5ee8.js.map": "/carrousel/static/js/main.788f5ee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2184074b.css",
+    "static/js/main.788f5ee8.js"
+  ]
+}
